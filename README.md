@@ -1,5 +1,5 @@
 <picture>
-  <img src="assets/header.svg" alt="Deema Alrafi — Product design, Arabic experiences and applied AI" width="100%">
+  <img src="assets/header-ice.svg" alt="Deema Alrafi — Product design, Arabic experiences and applied AI" width="100%">
 </picture>
 
 ### Senior UI/UX Designer · Applied AI
@@ -28,7 +28,7 @@ A Generative UI prototype that turns a task into an interactive workspace. Recor
 [Open the playground ↗](https://deema9-intent-lab.static.hf.space/index.html) · [Source, build instructions & decisions](playground/intent-lab/README.md)
 
 
-[![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval-night.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
+[![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval-ice.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
 
 **Arabic Retrieval Lab · My main public experiment**  
 Import public documents, compare lexical, semantic and hybrid search, and open the exact source passages. Save a local workspace, export the evidence, and verify its quotations offline.
@@ -37,7 +37,7 @@ The 40-case synthetic diagnostic compares search methods and documents where the
 
 [Open the experiment ↗](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab) · [Code](https://github.com/cometeux/arabic-ai-quality-lab) · [What failed, and why](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/EVALUATION.md)
 
-[![Action Review — clarify the task, owner and due date](assets/actions-night.svg)](https://huggingface.co/spaces/Deema9/action-review)
+[![Action Review — clarify the task, owner and due date](assets/actions-ice.svg)](https://huggingface.co/spaces/Deema9/action-review)
 
 **The meeting ended. What happens next?** A small notebook for reviewing tasks, owners and deadlines. It flags gaps, keeps editing in your hands and exports the list.
 
@@ -104,7 +104,7 @@ I set product direction, constraints and revision priorities. Research, implemen
 
 ### After hours
 
-![A night scene with Saturn, a game controller, a steaming coffee and a blinking cat](assets/after-hours.svg)
+![A night scene with Saturn, a game controller, a steaming coffee and a blinking cat](assets/after-hours-ice.svg)
 
 A telescope, a story-driven game, another black coffee. Ideally with a cat nearby.
 

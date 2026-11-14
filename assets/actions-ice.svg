@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Action Review — the meeting ended, the story continues</title><desc id="desc">A dark illustrated project cover with a rose-colored task notebook, an orbiting clock hand and a small cat peeking over the page.</desc>
+<style>.hand{transform-origin:1051px 84px;animation:tick 24s linear infinite}.check{stroke-dasharray:55;animation:check 8s ease-in-out infinite}.eyes{animation:blink 10s infinite;transform-box:fill-box;transform-origin:center}@keyframes tick{to{transform:rotate(360deg)}}@keyframes check{0%,20%{stroke-dashoffset:55}40%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:55}}@keyframes blink{0%,53%,57%,100%{transform:scaleY(1)}55%{transform:scaleY(.1)}}@media(prefers-reduced-motion:reduce){.hand,.check,.eyes{animation:none}}</style>
+<rect width="1200" height="340" rx="0" fill="#080a10"/>
+<path d="M32 32h28M32 32v28M1168 308h-28M1168 308v-28" fill="none" stroke="#3c5688"/>
+<text x="62" y="67" fill="#a9cfff" font-family="monospace" font-size="16" letter-spacing="3">02 / A SMALL MEETING NOTEBOOK</text>
+<text x="58" y="150" fill="#f3eeeb" font-family="Georgia,serif" font-size="65">Action</text>
+<text x="58" y="222" fill="#f3eeeb" font-family="Georgia,serif" font-size="65">Review<tspan fill="#a9cfff">.</tspan></text>
+<text x="62" y="283" fill="#b7cafa" font-family="Arial,sans-serif" font-size="22">The meeting ended. The story continues.</text>
+<path d="M691 292h402" stroke="#3c5688" stroke-width="1.5"/>
+<g transform="rotate(-7 866 185)"><rect x="748" y="72" width="244" height="221" rx="9" fill="#15213e" stroke="#7295dd" stroke-width="1.5"/><path d="M783 72v221M793 117h166" stroke="#3c5688"/><circle cx="766" cy="99" r="3" fill="#a9cfff"/><circle cx="766" cy="155" r="3" fill="#a9cfff"/><circle cx="766" cy="211" r="3" fill="#a9cfff"/>
+<g fill="none" stroke="#8eaceb" stroke-width="1.5"><rect x="803" y="142" width="21" height="21" rx="3"/><rect x="803" y="185" width="21" height="21" rx="3"/><rect x="803" y="228" width="21" height="21" rx="3"/><path d="M842 152h111M842 195h89M842 238h101"/></g><path class="check" d="m806 149 9 10 19-24" fill="none" stroke="#a9cfff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g fill="none" stroke="#8eaceb" stroke-width="1.7"><circle cx="1051" cy="84" r="33"/><path d="M1051 59v5m25 20h-5m-20 25v-5m-25-20h5"/><path class="hand" d="M1051 65v19l12 7" stroke="#a9cfff"/></g>
+<path d="M840 73q-8-16-4-31l19 12q15-7 30-1l18-14q5 20-3 34" fill="#080a10" stroke="#8eaceb" stroke-width="1.5"/><g class="eyes" stroke="#a9cfff" fill="none"><path d="M852 65q5-4 9 0m16 0q5-4 9 0"/></g>
+<path d="M1081 220v14m-7-7h14M715 110v10m-5-5h10" stroke="#8eaceb"/><circle cx="1033" cy="270" r="3" fill="#a9cfff"/>
+</svg>
