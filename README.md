@@ -115,7 +115,7 @@ A telescope, a story-driven game, another black coffee. Ideally with a cat nearb
 <details>
 <summary>What’s moving on the workbench?</summary>
 
-[![Automatically refreshed latest public repository updates](assets/workbench.svg)](https://github.com/cometeux/cometeux/actions/workflows/workbench.yml)
+[![Automatically refreshed latest public repository updates](assets/workbench.svg?v=pixel-1)](https://github.com/cometeux/cometeux/actions/workflows/workbench.yml)
 
 Actual public commit dates and messages, refreshed daily. The graphic changes only when the underlying work changes.
 
