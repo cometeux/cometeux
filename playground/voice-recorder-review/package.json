@@ -1,0 +1,11 @@
+{
+  "name": "voice-recorder-review",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test review-tests/recorder.test.mjs"
+  },
+  "devDependencies": {
+    "typescript": "~6.0.2"
+  }
+}
