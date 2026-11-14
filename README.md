@@ -8,7 +8,12 @@ I design internal products and build prototypes to test the ideas behind them. M
 
 I care about Arabic experiences, finding the right information, and what happens between an AI output and someone actually using it.
 
-[Try my work](#try-something) · [Product experience](#product-experience) · [How I work](notes/CONTRIBUTIONS.md) · [LinkedIn](https://www.linkedin.com/in/deemalrafe/) · [Hugging Face](https://huggingface.co/Deema9)
+<p>
+<a href="#try-something"><img src="assets/icons/play.svg" alt="Try my work" height="38"></a>
+<a href="notes/CONTRIBUTIONS.md"><img src="assets/icons/notes.svg" alt="How I work" height="38"></a>
+<a href="https://www.linkedin.com/in/deemalrafe/"><img src="assets/icons/linkedin.svg" alt="LinkedIn" height="38"></a>
+<a href="https://huggingface.co/Deema9"><img src="assets/icons/huggingface.svg" alt="Hugging Face" height="38"></a>
+</p>
 
 ---
 
@@ -44,6 +49,12 @@ Explores identifying and masking sensitive information before it enters AI workf
 
 *These are confidential projects. Descriptions are intentionally general; their code, interfaces and internal materials are not public. The open experiments above are separate work.*
 
+<p>
+<a href="#product-experience"><img src="assets/icons/figma.svg" alt="Design work" height="34"></a>
+<a href="https://github.com/cometeux/arabic-ai-quality-lab"><img src="assets/icons/code.svg" alt="Explore the code" height="34"></a>
+<a href="#after-hours"><img src="assets/icons/orbit.svg" alt="After hours" height="34"></a>
+</p>
+
 ### A few choices behind this work
 
 - **Arabic is part of the workflow.** Wording, direction and review states matter as much as the model.
@@ -63,4 +74,17 @@ The search experiment uses BM25, multilingual-e5-small, Transformers.js and reci
 
 ---
 
-Away from the screen: astronomy, story-driven games, and black coffee.
+### After hours
+
+![A night scene with Saturn, a game controller, a steaming coffee and a blinking cat](assets/after-hours.svg)
+
+Usually looking up at the sky, getting lost in a story-driven game, or making another black coffee. Cats are always welcome.
+
+<details>
+<summary>What’s moving on the workbench?</summary>
+
+[![Automatically refreshed latest public repository updates](assets/workbench.svg)](https://github.com/cometeux/cometeux/actions/workflows/workbench.yml)
+
+Actual public commit dates and messages, refreshed daily. The graphic changes only when the underlying work changes.
+
+</details>
