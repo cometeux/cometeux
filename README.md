@@ -1,12 +1,27 @@
 # Deema Alrafi
 
-### Product design, with a growing engineering practice.
+### Senior UI/UX Designer · Applied AI
 
-I’m a UI/UX designer with a computer science background. I work on internal products, and I’m building small tools around questions I meet along the way: Can someone find the right source? Is the next step clear? What should stay private?
+I design internal products and build prototypes to test how they could work better. My background is in computer science; my day-to-day work brings together research, product workflows and interface design.
+
+I’m especially interested in Arabic experiences, finding useful information, and making AI fit the way people actually work.
 
 [LinkedIn](https://www.linkedin.com/in/deemalrafe/) · [Hugging Face](https://huggingface.co/Deema9)
 
 ---
+
+### Selected product work
+
+**Smart Meeting Minutes**  
+Helps turn meeting conversations into structured minutes, decisions and follow-up actions. The workflow gives people a way to review and edit the output before finalizing it, then keep track of what needs to happen next.
+
+**Knowledge Companion**  
+Helps people find relevant information in a collection of documents and read answers alongside supporting sources. The aim is to make information easier to find and check without having to search through each document separately.
+
+**Data Protection Layer**  
+Designed to identify and mask sensitive information before it is used in AI workflows. The project explores how useful AI features can work with information that needs careful handling.
+
+*These projects are confidential. Only general descriptions are shared here; code, product screens and internal materials are not publicly available.*
 
 ### Open on your screen
 
@@ -28,6 +43,4 @@ A data-analysis workspace prototype with sample data and offline regression chec
 
 ### Notes on the work
 
-My public experiments use AI coding assistance. Their documentation records the tools, tests, trade-offs and known limits. They are new experiments, separate from in-house work. [Credited forks](https://github.com/cometeux/ai-data-agent) retain their upstream attribution.
-
-I’m interested in Arabic product experiences, useful AI applications, and the details that make a workflow easier to trust.
+My public experiments use AI coding assistance. Their documentation records the tools, tests, trade-offs and known limits. They are separate from the confidential projects above. [Credited forks](https://github.com/cometeux/ai-data-agent) retain their upstream attribution.
