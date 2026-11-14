@@ -21,7 +21,7 @@ The local project review found a browser MVP and desktop Electron iterations, pl
 
 “Save first” here means saving after recording stops, before AI processing. It does **not** establish crash recovery while recording, nor guarantee that a recording survives a tab close before the save.
 
-The local text fallback prefers notes over inventing tasks, but its keyword rules can misclassify intent or split an Arabic sentence poorly. A confidence field is not a calibrated accuracy measure.
+The original keyword fallback incorrectly treated negative instructions and narrative context as tasks. A review copy now separates explicit action clauses from notes and preserves overflow content. [Inspect the isolated core and 18 regression tests](../playground/voice-intent-core/README.md). The original local project is not modified; integration and audio verification are still pending. A confidence field is not a calibrated accuracy measure.
 
 ## Local storage and AI are separate
 
@@ -29,7 +29,7 @@ Storage is local in these prototypes. Configured cloud transcription and interpr
 
 ## Verification status
 
-The source and documentation were inspected in November 2026. On 15 November 2026 (Riyadh), the browser MVP passed its TypeScript application check and ESLint check. These static checks do not exercise audio recording or provider calls. Microphone permissions, real Arabic recordings, reload recovery, desktop reminders and provider calls still need a fresh end-to-end verification before a public demo is presented as ready.
+The source and documentation were inspected in November 2026. On 15 November 2026 (Riyadh), the browser MVP passed its TypeScript application check and ESLint check. After the local fallback patch, its review copy also passed a production build, ESLint and 18 bilingual regression tests. These checks do not exercise audio recording or provider calls. Microphone permissions, real Arabic recordings, reload recovery, desktop reminders and provider calls still need a fresh end-to-end verification before a public demo is presented as ready.
 
 The public note does not include organization-specific styling, account configuration, recordings or private source. The work was developed with AI assistance.
 

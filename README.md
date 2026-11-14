@@ -20,6 +20,8 @@ I focus on Arabic experiences and the decisions people make around AI: checking 
 
 ### Try something
 
+[![Intent Lab — a task goes in, a workspace comes out](assets/intent-pixel.svg)](https://deema9-intent-lab.static.hf.space/index.html)
+
 **Intent Lab · Generative UI you can use**  
 A Generative UI prototype that turns a task into an interactive workspace. Recorded examples and bring-your-own-key generation share a validated component catalog, with spec inspection and workspace export. The hosted prototype includes recorded examples; live generation uses your own OpenAI key.
 

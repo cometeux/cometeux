@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {interpretWithHeuristics as interpret} from '../review-tests/heuristics.mjs';
+for(const text of ['Do not send this email. This is a note about why we stopped.',"Don't send the report",'I will not call the client','Never submit this draft','لا ترسل البريد','لا تراجع الطلب','لن أرسل التقرير','The client asked about the email yesterday.'])test('prose/negation stays a note: '+text,()=>assert.equal(interpret(text).tasks.length,0));
+for(const text of ['Send the summary tomorrow','Please call the supplier','أرسل التقرير غدا','راجع الطلب'])test('explicit action: '+text,()=>assert.equal(interpret(text).tasks.length,1));
+test('context does not become a task',()=>{const r=interpret('The client is happy. Send the summary tomorrow.');assert.equal(r.interpretedPrimaryType,'mixed_note_tasks');assert.equal(r.tasks.length,1);assert.equal(r.tasks[0].title,'Send the summary tomorrow');assert.match(r.structuredNote.cleanedText,/client is happy/);});
+test('Arabic mixed context stays alongside action',()=>{const r=interpret('العميل سعيد. أرسل الملخص غدا');assert.equal(r.tasks.length,1);assert.equal(r.structuredNote.cleanedText,'العميل سعيد');});
+test('two explicit actions remain separate',()=>assert.equal(interpret('Send the report and call the supplier').tasks.length,2));
+test('positive negative-form reminder has no invented schedule',()=>{const r=interpret("Don't forget to book the appointment tomorrow");assert.equal(r.interpretedPrimaryType,'reminder');assert.equal(r.tasks[0].reminderAt,null);});
+test('overflow actions remain in context',()=>{const r=interpret(Array.from({length:8},(_,i)=>'Send report '+i).join('. '));assert.equal(r.tasks.length,6);assert.match(r.structuredNote.cleanedText,/report 7/);});
+test('empty input is a note',()=>assert.equal(interpret('  ').tasks.length,0));

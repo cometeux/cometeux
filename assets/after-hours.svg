@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
 <title id="title">After hours — astronomy, story-driven games, cats and black coffee</title><desc id="desc">A hand-drawn night scene: a ringed planet, a controller, a steaming cup and a cat that occasionally blinks. Motion respects reduced-motion preferences.</desc>
 <style>.blink{transform-box:fill-box;transform-origin:center;animation:blink 9s infinite}.steam{animation:steam 5s ease-in-out infinite}.star{animation:twinkle 7s ease-in-out infinite}@keyframes blink{0%,43%,47%,100%{transform:scaleY(1)}45%{transform:scaleY(.08)}}@keyframes steam{0%,100%{opacity:.3;transform:translateY(2px)}50%{opacity:.8;transform:translateY(-6px)}}@keyframes twinkle{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.blink,.steam,.star{animation:none}}</style>
-<rect width="1200" height="320" rx="4" fill="#101f30"/>
+<rect width="1200" height="320" rx="0" fill="#080a10"/>
 <text x="44" y="47" fill="#a9c5db" font-family="monospace" font-size="15" letter-spacing="3">AFTER HOURS</text>
 <text x="42" y="99" fill="#edf1f3" font-family="Georgia,serif" font-size="36">A few things that feel like me.</text>
 <text x="44" y="138" fill="#b1c6d7" font-family="Arial,sans-serif" font-size="19">Night skies. Good stories. Cats. Black coffee.</text>
@@ -10,7 +10,7 @@
 <g transform="translate(328 208)"><path d="M-40 8q0-20 20-20h40q20 0 24 20l10 39q3 20-12 16L19 41h-39l-23 22q-15 4-12-16z"/><path d="M-28 11v20m-10-10h20"/><circle cx="24" cy="14" r="3"/><circle cx="36" cy="26" r="3"/></g>
 <g transform="translate(535 210)"><path d="M-29 0h58v36q0 23-29 23t-29-23zM29 10h10q15 0 15 14t-25 14M-40 67h83"/><g class="steam"><path d="M-14-10q-10-14 0-27m15 24q-10-14 0-27m15 28q-10-14 0-27" stroke="#91aec6"/></g></g>
 <path d="M729 278h390" stroke="#526d86"/>
-<g transform="translate(919 209)"><path d="M-46 36q-5-33 17-50l-4-29 28 19q19-6 37 0l26-19-2 35q14 19 1 41-9 16-29 17h-62" fill="#1c3348"/><path d="M-28 50q-39-6-48 7t15 14h97q43-1 51-20t-5-26q-12-6-16 6"/><path d="m-2 15 7 4 7-4m-7 4v6m-29-5-29-4m29 13-29 2m70-11 25-4m-26 13 26 2"/><g class="blink"><path d="M-17 4q6-5 11 0m26 0q6-5 11 0" stroke="#e3c29a"/></g></g>
-<path class="star" d="M758 71v16m-8-8h16M1094 129v12m-6-6h12M1026 48v10m-5-5h10" stroke="#d9ba94"/>
+<g transform="translate(919 209)"><path d="M-46 36q-5-33 17-50l-4-29 28 19q19-6 37 0l26-19-2 35q14 19 1 41-9 16-29 17h-62" fill="#1c3348"/><path d="M-28 50q-39-6-48 7t15 14h97q43-1 51-20t-5-26q-12-6-16 6"/><path d="m-2 15 7 4 7-4m-7 4v6m-29-5-29-4m29 13-29 2m70-11 25-4m-26 13 26 2"/><g class="blink"><path d="M-17 4q6-5 11 0m26 0q6-5 11 0" stroke="#a9cfff"/></g></g>
+<path class="star" d="M758 71v16m-8-8h16M1094 129v12m-6-6h12M1026 48v10m-5-5h10" stroke="#a9cfff"/>
 </g><g fill="#a9c7df"><circle cx="704" cy="180" r="2"/><circle cx="1142" cy="205" r="2"/><circle cx="836" cy="115" r="2"/></g>
 </svg>

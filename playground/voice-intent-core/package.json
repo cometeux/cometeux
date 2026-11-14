@@ -1,0 +1,11 @@
+{
+  "name": "voice-intent-core",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node build.mjs && node --test review-tests/interpretation.test.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.27.7"
+  }
+}
