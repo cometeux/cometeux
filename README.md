@@ -113,13 +113,6 @@ A telescope, a story-driven game, another black coffee. Ideally with a cat nearb
 [Play Orbit Memory ↗](https://deema9-intent-lab.static.hf.space/index.html#orbit) · [Source](playground/intent-lab/src/main.jsx)
 
 <details>
-<summary>A little code from before the workspaces</summary>
-
-Shapes, colors and a few loops. [My Replit sketchbook](playground/replit/README.md) preserves the original Turtle experiments, including the rough edges and credited starter templates.
-
-</details>
-
-<details>
 <summary>What’s moving on the workbench?</summary>
 
 [![Automatically refreshed latest public repository updates](assets/workbench.svg)](https://github.com/cometeux/cometeux/actions/workflows/workbench.yml)
