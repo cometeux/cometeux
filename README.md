@@ -8,7 +8,6 @@ I’m Deema Alrafi, a Senior UI/UX Designer working on enterprise products since
 
 I focus on Arabic experiences and the decisions people make around AI: checking a source, correcting an output and knowing what to do next.
 
-أصمم منتجات داخلية، وأختبر أفكار الذكاء الاصطناعي بنماذج تقدر تجرّبها وتفحص نتائجها.
 
 <p>
 <a href="#try-something"><img src="assets/icons/play.svg" alt="Try my work" height="38"></a>
@@ -21,12 +20,18 @@ I focus on Arabic experiences and the decisions people make around AI: checking 
 
 ### Try something
 
+**Intent Lab · Generative UI you can use**  
+A Generative UI prototype that turns a task into an interactive workspace. Recorded examples and bring-your-own-key generation share a validated component catalog, with spec inspection and workspace export. Browser verification and hosted publication are pending.
+
+[Source, build instructions & decisions ↗](playground/intent-lab/README.md)
+
+
 [![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval-night.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
 
 **Arabic Retrieval Lab · My main public experiment**  
 Import public documents, compare lexical, semantic and hybrid search, and open the exact source passages. Save a local workspace, export the evidence, and verify its quotations offline.
 
-The 40-case synthetic diagnostic compares search methods and documents where they fail. [Read the case study / بالعربي](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/CASE_STUDY.md) · [Architecture](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/ARCHITECTURE.md)
+The 40-case synthetic diagnostic compares search methods and documents where they fail. [Read the case study](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/CASE_STUDY.md) · [Architecture](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/ARCHITECTURE.md)
 
 [Open the experiment ↗](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab) · [Code](https://github.com/cometeux/arabic-ai-quality-lab) · [What failed, and why](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/EVALUATION.md)
 
@@ -43,7 +48,7 @@ The 40-case synthetic diagnostic compares search methods and documents where the
 
 ### Independent venture
 
-**Meyar Prices · مِعيار الأسعار**  
+**Meyar Prices**  
 A price file can look right and still contain an expensive mistake. I’m building an Arabic tool to review Excel prices, compare versions and export the changes — with local file processing.
 
 Around it, I’m testing four AI-agent roles for quality, growth, support and operations, with recorded jobs, retries and clear escalation rules. **14 automated tests passed.** The prototype is pre-launch; merchant-file and payment validation are still pending.
@@ -101,37 +106,9 @@ I set product direction, constraints and revision priorities. Research, implemen
 
 A telescope, a story-driven game, another black coffee. Ideally with a cat nearby.
 
-**A tiny side quest: two skies, one star moved.** Look twice, then open your guess.
+**Orbit Memory** — a small browser game about remembering a constellation. Five rounds, a few stars, and another reason to look twice.
 
-![Two invented maps with six numbered stars; an accessible description follows](assets/sky-puzzle.svg)
-
-<details>
-<summary>Star 2?</summary>
-
-Same place. Suspiciously innocent. Try another.
-
-</details>
-
-<details>
-<summary>Star 4?</summary>
-
-Found it. In the second sky it is higher. The smallest change is sometimes the whole story.
-
-</details>
-
-<details>
-<summary>Star 6?</summary>
-
-Still exactly where it was. One more look?
-
-</details>
-
-<details>
-<summary>Text version of the puzzle</summary>
-
-Six stars sit in two invented rectangular skies. Star 1 is upper-left, 2 lower-left, 3 near the top-middle, 5 upper-right and 6 lower-right in both. Star 4 is below the middle in the first sky and near the middle in the second. Which star changed position? Open a guess above. These are invented positions, not astronomy data.
-
-</details>
+[Orbit Memory source ↗](playground/intent-lab/src/main.jsx)
 
 <details>
 <summary>A little code from before the workspaces</summary>

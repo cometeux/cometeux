@@ -54,8 +54,5 @@ python3 verify.py
 
 The verifier checks each archived source against its recorded SHA-256 and expected syntax status. It does not open a GUI. Configuration, cookies, environment files, virtual environments, platform drivers and Git internals are excluded from this public archive.
 
-## بالعربي
-
-دفتر لتجارب برمجية مبكرة في الرسم باستخدام Python/Turtle. الملفات الأصلية محفوظة كما هي، مع توضيح القوالب المتكررة والأمثلة غير المكتملة. مشاريع المنتجات والتجارب الأحدث موجودة في الصفحة الرئيسية.
 
 [Back to the profile](../../README.md)

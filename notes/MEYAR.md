@@ -1,4 +1,4 @@
-# Meyar Prices · مِعيار الأسعار
+# Meyar Prices
 
 **An Arabic price-review tool, and an experiment in running a small venture with AI agents.**
 
@@ -73,13 +73,6 @@ The outstanding checks are a real merchant export, seller approval, test payment
 
 Taking an idea beyond a landing page means deciding what should happen when a price is unclear, a model fails, an event arrives twice or a payment has not been verified. Meyar is where I’m working through those decisions together: Arabic product experience, implementation detail and operational control.
 
-## بالعربي
-
-**مِعيار الأسعار** تجربة لبناء مشروع مستقل بمساعدة وكلاء الذكاء الاصطناعي. المنتج يساعد التاجر على مراجعة ملفات الأسعار ومقارنة نسختين قبل تحديثها، مع إبقاء معالجة الملفات داخل المتصفح.
-
-دوري هو توجيه المشروع وتحديد قيوده وطلب الأدلة قبل اختيار المنتج ومراجعة مسار التطوير. التنفيذ والبحث والاختبارات تمت بمساعدة الذكاء الاصطناعي. الأدوار الأربعة تغطي الجودة والنمو والدعم والعمليات، بصلاحيات محددة وتصعيد للحالات التي تحتاج قرارًا.
-
-النموذج الأولي اجتاز ١٤ اختبارًا آليًا محليًا، لكنه لم يُطلق تجاريًا بعد. التحقق من ملف تاجر فعلي ومسار الدفع والتسليم ما زال مطلوبًا.
 
 ---
 

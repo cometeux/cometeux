@@ -33,6 +33,3 @@ The source and documentation were inspected in November 2026. On 15 November 202
 
 The public note does not include organization-specific styling, account configuration, recordings or private source. The work was developed with AI assistance.
 
-## بالعربي
-
-الفكرة أن تُحفظ اللقطة أولًا، ثم تُنظم إلى ملاحظة أو فكرة أو مهمة أو تذكير، دون تحويل كل كلام الشخص إلى مهام. راجعت تنفيذ الويب والنسخ المكتبية؛ وجود الكود لا يغني عن اختبار التسجيل والاستعادة والتذكيرات فعليًا قبل النشر كتجربة جاهزة.

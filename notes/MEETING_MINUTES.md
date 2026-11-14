@@ -27,6 +27,3 @@ This is a sanitized account of confidential design work. The public [Action Revi
 
 No screenshots, task-time reductions or usability gains are asserted here. The public record currently supports a discussion of my design scope and reasoning; measured outcomes would require approved, attributable evidence.
 
-## بالعربي
-
-يركز عملي في تصميم تجربة محاضر الاجتماعات على الانتقال من مسودة مولدة إلى محضر يمكن مراجعته وتعديله واعتماده، ثم متابعة الإجراءات الناتجة عنه. يوضح هذا الملخص نطاق مساهمتي ومنطق التصميم بشكل عام، دون نشر واجهات أو كود أو تفاصيل داخلية أو نتائج غير موثقة.

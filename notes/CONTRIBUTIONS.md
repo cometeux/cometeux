@@ -30,6 +30,3 @@ I set product direction, constraints and revision priorities. Research, implemen
 
 Functional checks, synthetic evaluations and independent user sessions are different evidence types. [The review record](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/REVIEW_RESULTS.md) tracks independent sessions separately; none are recorded yet.
 
-## بالعربي
-
-مساهمتي تتمثل في توجيه المنتج وتحديد المشكلة والقيود ومراجعة التجربة وطلب التعديلات. الجدول يفصل بين هذا الدور وبين القرارات الهندسية التي تطورت أثناء التنفيذ بمساعدة الذكاء الاصطناعي، ويربط كل مثال بما يمكن فحصه.

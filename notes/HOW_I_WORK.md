@@ -34,6 +34,5 @@ Outside work, I’m drawn to astronomy, story-driven games, cats and quiet night
 
 ---
 
-**بالعربي:** أبدأ من الموقف الذي يمر فيه الشخص، وأحدد الشيء الذي يحاول إنجازه. أبني تجربة تساعده يفهم ويقرر ويصحح، وأختبر الافتراضات بدل الاكتفاء بشكل مقنع. أحب أن يكون للتصميم طابع، وأن يكون لكل تفصيل سبب.
 
 [Decisions and contribution evidence](CONTRIBUTIONS.md) · [Selected project notes](PROJECTS.md)

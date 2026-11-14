@@ -1,0 +1,27 @@
+name: Intent Lab checks
+on:
+  push:
+    paths: ['playground/intent-lab/**', '.github/workflows/intent-lab.yml']
+  pull_request:
+    paths: ['playground/intent-lab/**', '.github/workflows/intent-lab.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: playground/intent-lab
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --ignore-scripts
+      - run: npm test
+      - run: npm run build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: intent-lab-browser-build
+          path: playground/intent-lab/dist/index.html
