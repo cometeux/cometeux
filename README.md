@@ -1,28 +1,33 @@
 # Deema Alrafi
 
-**AI Product & Experience Designer · Computer Science**
+### Product design, with a growing engineering practice.
 
-I combine UX research, product design and AI-assisted prototyping. I’m interested in Arabic experiences, answers grounded in evidence, and keeping people in control of AI workflows.
-
-## Try the experiments
-
-- **[Arabic Retrieval Lab](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)** — compare Arabic lexical retrieval before/after normalization; inspect sources, metrics and unsupported cases.
-- **[Action Review](https://huggingface.co/spaces/Deema9/action-review)** — check meeting tasks for explicit owners, valid dates and selected wording issues. A rules-based prototype that keeps human review visible.
-
-Both are new, offline, AI-assisted portfolio experiments. [Source, tests, synthetic fixtures and limitations](https://github.com/cometeux/arabic-ai-quality-lab).
-
-## Selected work
-
-| Project | What to explore |
-|---|---|
-| [Arabic AI Quality Lab](https://github.com/cometeux/arabic-ai-quality-lab) | Two runnable experiments, 11 offline tests and a transparent development-fixture evaluation. |
-| [Datara](https://github.com/cometeux/data-ai-agent) | Data-analysis workspace prototype with dataset inspection, AI-assisted summaries and charts, synthetic sample data and offline regression checks. |
-| [Synthetic Enterprise Knowledge Corpus](https://github.com/cometeux/synthetic-enterprise-knowledge) | Python generator of interconnected fictional documents for retrieval experiments, with structural validation. |
-
-## How I work
-
-Start with the problem. Make the workflow understandable. Prototype, test and refine. Explain what the system can do, what data it uses, and where a person needs to review its output.
-
-I use AI coding tools in prototyping. Project documentation distinguishes product/design decisions, implementation assistance, existing components, verified behavior and limitations. Credited forks, including [bilingual analytics](https://github.com/cometeux/ai-data-agent), remain separate from original experiments.
+I’m a UI/UX designer with a computer science background. I work on internal products, and I’m building small tools around questions I meet along the way: Can someone find the right source? Is the next step clear? What should stay private?
 
 [LinkedIn](https://www.linkedin.com/in/deemalrafe/) · [Hugging Face](https://huggingface.co/Deema9)
+
+---
+
+### Open on your screen
+
+**01 — Arabic Retrieval Lab**  
+A search experiment about Arabic text and source evidence. Compare the results, open the passages and inspect the cases.  
+[Try it](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab) · [Read the code](https://github.com/cometeux/arabic-ai-quality-lab)
+
+**02 — Action Review**  
+A small tool for reviewing meeting tasks: what needs to be done, who owns it, and when it is due.  
+[Try it](https://huggingface.co/spaces/Deema9/action-review) · [Read the code](https://github.com/cometeux/arabic-ai-quality-lab)
+
+**03 — Synthetic Enterprise Knowledge Corpus**  
+Interconnected fictional documents for trying ingestion and retrieval workflows without using internal files.  
+[Explore the generator](https://github.com/cometeux/synthetic-enterprise-knowledge)
+
+**04 — Datara**  
+A data-analysis workspace prototype with sample data and offline regression checks.  
+[Explore the project](https://github.com/cometeux/data-ai-agent)
+
+### Notes on the work
+
+My public experiments use AI coding assistance. Their documentation records the tools, tests, trade-offs and known limits. They are new experiments, separate from in-house work. [Credited forks](https://github.com/cometeux/ai-data-agent) retain their upstream attribution.
+
+I’m interested in Arabic product experiences, useful AI applications, and the details that make a workflow easier to trust.
