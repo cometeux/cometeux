@@ -12,7 +12,7 @@ I focus on Arabic experiences and the decisions people make around AI: checking 
 
 <p>
 <a href="#try-something"><img src="assets/icons/play.svg" alt="Try my work" height="38"></a>
-<a href="notes/CONTRIBUTIONS.md"><img src="assets/icons/notes.svg" alt="How I work" height="38"></a>
+<a href="notes/HOW_I_WORK.md"><img src="assets/icons/notes.svg" alt="How I work" height="38"></a>
 <a href="https://www.linkedin.com/in/deemalrafe/"><img src="assets/icons/linkedin.svg" alt="LinkedIn" height="38"></a>
 <a href="https://huggingface.co/Deema9"><img src="assets/icons/huggingface.svg" alt="Hugging Face" height="38"></a>
 </p>
@@ -50,6 +50,9 @@ Around it, I’m testing four AI-agent roles for quality, growth, support and op
 
 [Product decisions, agent architecture and verification ↗](notes/MEYAR.md)
 
+**Voice capture · Save the thought, sort it later**  
+Arabic-first desktop and web explorations that keep notes, ideas, reminders and tasks distinct. [Product note and verification status](notes/VOICE_CAPTURE.md) · [More project notes](notes/PROJECTS.md)
+
 ### Product experience
 
 **Smart Meeting Minutes** · UX/UI design  
@@ -65,11 +68,11 @@ Explores identifying and masking sensitive information before it enters AI workf
 
 <p>
 <a href="#product-experience"><img src="assets/icons/figma.svg" alt="Design work" height="34"></a>
-<a href="https://github.com/cometeux/arabic-ai-quality-lab"><img src="assets/icons/code.svg" alt="Explore the code" height="34"></a>
-<a href="#after-hours"><img src="assets/icons/orbit.svg" alt="After hours" height="34"></a>
+<a href="notes/HOW_I_WORK.md"><img src="assets/icons/thinking.svg" alt="How I work" height="34"></a>
+<a href="#after-hours"><img src="assets/icons/detour.svg" alt="Take a detour" height="34"></a>
 </p>
 
-### A few choices behind this work
+### How I think about the work
 
 - **Arabic is part of the workflow.** Wording, direction and review states matter as much as the model.
 - **Keep evidence visible.** A convincing result still needs a source someone can inspect.
@@ -96,7 +99,39 @@ I set product direction, constraints and revision priorities. Research, implemen
 
 ![A night scene with Saturn, a game controller, a steaming coffee and a blinking cat](assets/after-hours.svg)
 
-Usually looking up at the sky, getting lost in a story-driven game, or making another black coffee. Cats are always welcome.
+A telescope, a story-driven game, another black coffee. Ideally with a cat nearby.
+
+**A tiny side quest: two skies, one star moved.** Look twice, then open your guess.
+
+![Two invented maps with six numbered stars; an accessible description follows](assets/sky-puzzle.svg)
+
+<details>
+<summary>Star 2?</summary>
+
+Same place. Suspiciously innocent. Try another.
+
+</details>
+
+<details>
+<summary>Star 4?</summary>
+
+Found it. In the second sky it is higher. The smallest change is sometimes the whole story.
+
+</details>
+
+<details>
+<summary>Star 6?</summary>
+
+Still exactly where it was. One more look?
+
+</details>
+
+<details>
+<summary>Text version of the puzzle</summary>
+
+Six stars sit in two invented rectangular skies. Star 1 is upper-left, 2 lower-left, 3 near the top-middle, 5 upper-right and 6 lower-right in both. Star 4 is below the middle in the first sky and near the middle in the second. Which star changed position? Open a guess above. These are invented positions, not astronomy data.
+
+</details>
 
 <details>
 <summary>What’s moving on the workbench?</summary>
