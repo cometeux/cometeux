@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title">
+<title id="title">02 — Action Review. Make the task, owner and date clear.</title>
+<rect width="1200" height="230" rx="4" fill="#efeee6"/><rect width="90" height="230" fill="#243b30"/>
+<text x="18" y="126" fill="#d3ddcc" font-family="Georgia,serif" font-size="48">02</text>
+<text x="128" y="57" fill="#586e5c" font-family="monospace" font-size="14" letter-spacing="2">MEETINGS / TASKS / HUMAN REVIEW</text>
+<text x="125" y="119" fill="#243b30" font-family="Georgia,serif" font-size="47">Action Review</text>
+<text x="128" y="169" fill="#586e5c" font-family="Arial,sans-serif" font-size="21">The meeting ended. What happens next?</text>
+<g fill="none" stroke="#6c806d" stroke-width="2"><path d="M900 48h193v143H900zM924 84h15v15h-15zM954 91h114M924 126h15v15h-15zM954 133h86"/><path d="m922 88 9 9 17-20" stroke="#ad552e" stroke-width="3"/></g>
+</svg>

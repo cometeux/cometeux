@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title">
+<title id="title">01 — Arabic Retrieval Lab. Compare search methods; inspect the evidence.</title>
+<rect width="1200" height="230" rx="4" fill="#eaf0f5"/><rect width="90" height="230" fill="#14283b"/>
+<text x="20" y="126" fill="#c8d9e7" font-family="Georgia,serif" font-size="48">01</text>
+<text x="128" y="57" fill="#48637c" font-family="monospace" font-size="14" letter-spacing="2">SEARCH / SOURCES / EVALUATION</text>
+<text x="125" y="119" fill="#14283b" font-family="Georgia,serif" font-size="47">Arabic Retrieval Lab</text>
+<text x="128" y="169" fill="#48637c" font-family="Arial,sans-serif" font-size="21">Compare the methods. Read what came back.</text>
+<g fill="none" stroke="#6886a0" stroke-width="2"><rect x="880" y="48" width="214" height="139"/><path d="M903 77h132M903 99h165M903 121h105M903 154h54"/><circle cx="1081" cy="158" r="24" stroke="#004cc7"/><path d="m1099 176 26 25" stroke="#004cc7"/></g>
+</svg>

@@ -1,46 +1,66 @@
-# Deema Alrafi
+<picture>
+  <img src="assets/header.svg" alt="Deema Alrafi — Product design, Arabic experiences and applied AI" width="100%">
+</picture>
 
 ### Senior UI/UX Designer · Applied AI
 
-I design internal products and build prototypes to test how they could work better. My background is in computer science; my day-to-day work brings together research, product workflows and interface design.
+I design internal products and build prototypes to test the ideas behind them. My background is in computer science; my work brings together research, product workflows and interface design.
 
-I’m especially interested in Arabic experiences, finding useful information, and making AI fit the way people actually work.
+I care about Arabic experiences, finding the right information, and what happens between an AI output and someone actually using it.
 
-[LinkedIn](https://www.linkedin.com/in/deemalrafe/) · [Hugging Face](https://huggingface.co/Deema9)
+[Try my work](#try-something) · [Product experience](#product-experience) · [How I work](notes/CONTRIBUTIONS.md) · [LinkedIn](https://www.linkedin.com/in/deemalrafe/) · [Hugging Face](https://huggingface.co/Deema9)
 
 ---
 
-### Selected product work
+### Try something
 
-**Smart Meeting Minutes**  
-Helps turn meeting conversations into structured minutes, decisions and follow-up actions. The workflow gives people a way to review and edit the output before finalizing it, then keep track of what needs to happen next.
+[![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
+
+**When a search looks right, how do you check it?** Compare Arabic lexical, semantic and hybrid retrieval. Open the actual passages and export the evidence.
+
+[Open the experiment ↗](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab) · [Code](https://github.com/cometeux/arabic-ai-quality-lab) · [What failed, and why](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/EVALUATION.md)
+
+[![Action Review — clarify the task, owner and due date](assets/actions.svg)](https://huggingface.co/spaces/Deema9/action-review)
+
+**The meeting ended. What happens next?** A small notebook for reviewing tasks, owners and deadlines. It flags gaps, keeps editing in your hands and exports the list.
+
+[Open the notebook ↗](https://huggingface.co/spaces/Deema9/action-review) · [Code](https://github.com/cometeux/arabic-ai-quality-lab/tree/main/actions) · [Design decisions](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/DECISIONS.md)
+
+**Also on the workbench**
+
+[Synthetic Enterprise Knowledge](https://github.com/cometeux/synthetic-enterprise-knowledge) — fictional, connected documents for testing retrieval without internal files.  
+[Datara](https://github.com/cometeux/data-ai-agent) — a data-analysis workspace prototype with sample data and regression checks.
+
+### Product experience
+
+**Smart Meeting Minutes** · UX/UI design  
+Helps turn meeting conversations into minutes, decisions and follow-up actions. My design work focuses on how people review and edit the output, finalize the record and follow up on tasks.
 
 **Knowledge Companion**  
-Helps people find relevant information in a collection of documents and read answers alongside supporting sources. The aim is to make information easier to find and check without having to search through each document separately.
+Helps people find information across a document collection and read answers alongside supporting sources. The aim is to make information easier to find and check.
 
 **Data Protection Layer**  
-Designed to identify and mask sensitive information before it is used in AI workflows. The project explores how useful AI features can work with information that needs careful handling.
+Explores identifying and masking sensitive information before it enters AI workflows, so useful AI features can work with information that needs careful handling.
 
-*These projects are confidential. Only general descriptions are shared here; code, product screens and internal materials are not publicly available.*
+*These are confidential projects. Descriptions are intentionally general; their code, interfaces and internal materials are not public. The open experiments above are separate work.*
 
-### Open on your screen
+### A few choices behind this work
 
-**01 — Arabic Retrieval Lab**  
-A search experiment about Arabic text and source evidence. Compare the results, open the passages and inspect the cases.  
-[Try it](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab) · [Read the code](https://github.com/cometeux/arabic-ai-quality-lab)
+- **Arabic is part of the workflow.** Wording, direction and review states matter as much as the model.
+- **Keep evidence visible.** A convincing result still needs a source someone can inspect.
+- **Make room for judgment.** A completed field or a high similarity score does not replace a person's decision.
 
-**02 — Action Review**  
-A small tool for reviewing meeting tasks: what needs to be done, who owns it, and when it is due.  
-[Try it](https://huggingface.co/spaces/Deema9/action-review) · [Read the code](https://github.com/cometeux/arabic-ai-quality-lab)
+[Contribution notes](notes/CONTRIBUTIONS.md) · [Evaluation and failure analysis](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/EVALUATION.md) · [Verification record](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/VERIFY.md)
 
-**03 — Synthetic Enterprise Knowledge Corpus**  
-Interconnected fictional documents for trying ingestion and retrieval workflows without using internal files.  
-[Explore the generator](https://github.com/cometeux/synthetic-enterprise-knowledge)
+<details>
+<summary>Tools, assistance and credits</summary>
 
-**04 — Datara**  
-A data-analysis workspace prototype with sample data and offline regression checks.  
-[Explore the project](https://github.com/cometeux/data-ai-agent)
+My public prototypes use AI coding assistance. I set the product direction and revision priorities; implementation, synthetic examples and testing are assisted. The repositories record methods, trade-offs and known limits. They do not claim that I trained the underlying model or independently wrote every component.
 
-### Notes on the work
+The search experiment uses BM25, multilingual-e5-small, Transformers.js and reciprocal-rank fusion. Action Review uses explicit rules. My design work includes research, workflow mapping, prototyping and interface design. [Credited forks](https://github.com/cometeux/ai-data-agent) retain their upstream attribution.
 
-My public experiments use AI coding assistance. Their documentation records the tools, tests, trade-offs and known limits. They are separate from the confidential projects above. [Credited forks](https://github.com/cometeux/ai-data-agent) retain their upstream attribution.
+</details>
+
+---
+
+Away from the screen: astronomy, story-driven games, and black coffee.

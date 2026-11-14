@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Deema Alrafi — Product design, Arabic experiences, applied AI</title><desc id="desc">An understated midnight-blue nameplate with an orbital diagram and a slowly moving point. The motion stops when reduced motion is requested.</desc>
+<style>.orbiter{transform-origin:1000px 165px;animation:orbit 32s linear infinite}@keyframes orbit{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.orbiter{animation:none}}</style>
+<rect width="1200" height="330" rx="4" fill="#101f30"/>
+<g fill="none" stroke="#617d96" stroke-width="1" opacity=".55"><circle cx="1000" cy="165" r="108"/><circle cx="1000" cy="165" r="164"/><path d="M1000 0v330M835 165h365" stroke-dasharray="2 9"/></g>
+<g class="orbiter"><circle cx="1000" cy="57" r="5" fill="#d9b78a"/><circle cx="1000" cy="57" r="11" fill="none" stroke="#d9b78a" opacity=".5"/></g>
+<g fill="#c1d3e2"><circle cx="835" cy="50" r="2"/><circle cx="1130" cy="282" r="2"/><path d="M1056 126h12m-6-6v12"/></g>
+<text x="58" y="63" fill="#b5cbdc" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">PRODUCT DESIGN / WORKING EXPERIMENTS</text>
+<text x="54" y="174" fill="#f3f4f1" font-family="Georgia,serif" font-size="86">Deema Alrafi</text>
+<path d="M58 211h610" stroke="#41566c"/>
+<text x="58" y="252" fill="#c8d8e5" font-family="Arial,sans-serif" font-size="23">Arabic experiences. Useful AI. Room to explore.</text>
+<text x="58" y="292" fill="#91aabf" font-family="monospace" font-size="13" letter-spacing="1">RIYADH · DESIGN &amp; COMPUTER SCIENCE</text>
+</svg>
