@@ -4,6 +4,8 @@ A small Generative UI playground by Deema Alrafi. A model turns a task into an i
 
 ## Try it
 
+[Open Intent Lab](https://deema9-intent-lab.static.hf.space/index.html) · [Play Orbit Memory](https://deema9-intent-lab.static.hf.space/index.html#orbit) · [Hugging Face Space](https://huggingface.co/spaces/Deema9/intent-lab)
+
 Three recorded examples work without an API key and are labeled as examples. Live generation uses the visitor's own OpenAI key and editable model ID. The key stays in tab memory and requests go directly to https://api.openai.com/v1/responses. No hosted server receives the key; the app does not use localStorage, analytics or remote scripts. Provider usage may incur charges. Prefer a temporary restricted key and public or invented inputs.
 
 The model returns structured JSON; Zod validates it before React renders it. Unknown fields and component types are rejected. Model output is text data: no evaluated JavaScript, model-controlled HTML, external links or tool execution. The existing interface remains available after errors, refusals, cancellation and invalid imports.
@@ -38,7 +40,7 @@ The interface, product framing, integration and tests were developed with AI ass
 
 ## Verification
 
-Nine engine tests passed locally on 15 November 2026 (Riyadh). They cover catalog limits, examples, invalid component props, refusals/incomplete responses, request shape, fixed provider destination, missing key/provider errors, abort propagation and valid game patterns. Provider calls use a mocked transport in these tests. No paid live model request has been made during this build. Browser verification is recorded separately when completed.
+Nine engine tests passed locally on 15 November 2026 (Riyadh). They cover catalog limits, examples, invalid component props, refusals/incomplete responses, request shape, fixed provider destination, missing key/provider errors, abort propagation and valid game patterns. Provider calls use a mocked transport in these tests. No paid live model request has been made during this build. The published browser build was checked on 15 November 2026 (Riyadh): example switching, checklist and choice inputs, spec view, missing-key feedback, game start, constellation replay, incorrect-input feedback and restart. A full five-round winning run, workspace import/export and responsive/device coverage have not yet been verified in-browser. Live BYOK generation remains unverified with a real key.
 
 ## Limits
 

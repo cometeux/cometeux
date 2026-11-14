@@ -21,9 +21,9 @@ I focus on Arabic experiences and the decisions people make around AI: checking 
 ### Try something
 
 **Intent Lab · Generative UI you can use**  
-A Generative UI prototype that turns a task into an interactive workspace. Recorded examples and bring-your-own-key generation share a validated component catalog, with spec inspection and workspace export. Browser verification and hosted publication are pending.
+A Generative UI prototype that turns a task into an interactive workspace. Recorded examples and bring-your-own-key generation share a validated component catalog, with spec inspection and workspace export. The hosted prototype includes recorded examples; live generation uses your own OpenAI key.
 
-[Source, build instructions & decisions ↗](playground/intent-lab/README.md)
+[Open the playground ↗](https://deema9-intent-lab.static.hf.space/index.html) · [Source, build instructions & decisions](playground/intent-lab/README.md)
 
 
 [![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval-night.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
@@ -108,7 +108,7 @@ A telescope, a story-driven game, another black coffee. Ideally with a cat nearb
 
 **Orbit Memory** — a small browser game about remembering a constellation. Five rounds, a few stars, and another reason to look twice.
 
-[Orbit Memory source ↗](playground/intent-lab/src/main.jsx)
+[Play Orbit Memory ↗](https://deema9-intent-lab.static.hf.space/index.html#orbit) · [Source](playground/intent-lab/src/main.jsx)
 
 <details>
 <summary>A little code from before the workspaces</summary>
