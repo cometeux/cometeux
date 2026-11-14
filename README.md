@@ -19,6 +19,10 @@ I care about Arabic experiences, finding the right information, and what happens
 
 ---
 
+### Currently building
+
+An independent venture using AI agents. This is ongoing work, currently in development.
+
 ### Try something
 
 [![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval-night.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
