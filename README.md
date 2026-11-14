@@ -134,6 +134,13 @@ Six stars sit in two invented rectangular skies. Star 1 is upper-left, 2 lower-l
 </details>
 
 <details>
+<summary>A little code from before the workspaces</summary>
+
+Shapes, colors and a few loops. [My Replit sketchbook](playground/replit/README.md) preserves the original Turtle experiments, including the rough edges and credited starter templates.
+
+</details>
+
+<details>
 <summary>What’s moving on the workbench?</summary>
 
 [![Automatically refreshed latest public repository updates](assets/workbench.svg)](https://github.com/cometeux/cometeux/actions/workflows/workbench.yml)
