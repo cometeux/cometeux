@@ -10,10 +10,10 @@ I focus on Arabic experiences and the decisions people make around AI: checking 
 
 
 <p>
-<a href="#try-something"><img src="assets/icons/play.svg" alt="Try my work" height="38"></a>
-<a href="notes/HOW_I_WORK.md"><img src="assets/icons/notes.svg" alt="How I work" height="38"></a>
-<a href="https://www.linkedin.com/in/deemalrafe/"><img src="assets/icons/linkedin.svg" alt="LinkedIn" height="38"></a>
-<a href="https://huggingface.co/Deema9"><img src="assets/icons/huggingface.svg" alt="Hugging Face" height="38"></a>
+<a href="#try-something"><img src="assets/icons/play-pixel.svg" alt="Try my work" height="38"></a>
+<a href="notes/HOW_I_WORK.md"><img src="assets/icons/notes-pixel.svg" alt="How I work" height="38"></a>
+<a href="https://www.linkedin.com/in/deemalrafe/"><img src="assets/icons/linkedin-pixel.svg" alt="LinkedIn" height="38"></a>
+<a href="https://huggingface.co/Deema9"><img src="assets/icons/huggingface-pixel.svg" alt="Hugging Face" height="38"></a>
 </p>
 
 ---
@@ -37,7 +37,7 @@ The 40-case synthetic diagnostic compares search methods and documents where the
 
 [Open the experiment ↗](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab) · [Code](https://github.com/cometeux/arabic-ai-quality-lab) · [What failed, and why](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/EVALUATION.md)
 
-[![Action Review — clarify the task, owner and due date](assets/actions-ice.svg)](https://huggingface.co/spaces/Deema9/action-review)
+[![Action Review — clarify the task, owner and due date](assets/action-notebook-pixel.svg)](https://huggingface.co/spaces/Deema9/action-review)
 
 **The meeting ended. What happens next?** A small notebook for reviewing tasks, owners and deadlines. It flags gaps, keeps editing in your hands and exports the list.
 
@@ -74,9 +74,9 @@ Explores identifying and masking sensitive information before it enters AI workf
 *These are confidential projects. Descriptions are intentionally general; their code, interfaces and internal materials are not public. The open experiments above are separate work.*
 
 <p>
-<a href="#product-experience"><img src="assets/icons/figma.svg" alt="Design work" height="34"></a>
-<a href="notes/HOW_I_WORK.md"><img src="assets/icons/thinking.svg" alt="How I work" height="34"></a>
-<a href="#after-hours"><img src="assets/icons/detour.svg" alt="Take a detour" height="34"></a>
+<a href="#product-experience"><img src="assets/icons/figma-pixel.svg" alt="Design work" height="34"></a>
+<a href="notes/HOW_I_WORK.md"><img src="assets/icons/thinking-pixel.svg" alt="How I work" height="34"></a>
+<a href="#after-hours"><img src="assets/icons/detour-pixel.svg" alt="Take a detour" height="34"></a>
 </p>
 
 ### How I think about the work
@@ -104,7 +104,7 @@ I set product direction, constraints and revision priorities. Research, implemen
 
 ### After hours
 
-![A night scene with Saturn, a game controller, a steaming coffee and a blinking cat](assets/after-hours-no-planet.svg)
+![Pixel art: a game controller, steaming black coffee and a curled-tail cat](assets/after-hours-pixel.svg)
 
 A telescope, a story-driven game, another black coffee. Ideally with a cat nearby.
 
