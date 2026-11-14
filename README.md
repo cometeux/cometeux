@@ -1,5 +1,5 @@
 <picture>
-  <img src="assets/header-ice.svg" alt="Deema Alrafi — Product design, Arabic experiences and applied AI" width="100%">
+  <img src="assets/header-observatory.svg" alt="Deema Alrafi — Product design, Arabic experiences and applied AI" width="100%">
 </picture>
 
 ### Senior UI/UX Designer · Applied AI
@@ -20,7 +20,7 @@ I focus on Arabic experiences and the decisions people make around AI: checking 
 
 ### Try something
 
-[![Intent Lab — a task goes in, a workspace comes out](assets/intent-pixel.svg)](https://deema9-intent-lab.static.hf.space/index.html)
+[![Intent Lab — a task goes in, a workspace comes out](assets/intent-workshop.svg)](https://deema9-intent-lab.static.hf.space/index.html)
 
 **Intent Lab · Generative UI you can use**  
 A Generative UI prototype that turns a task into an interactive workspace. Recorded examples and bring-your-own-key generation share a validated component catalog, with spec inspection and workspace export. The hosted prototype includes recorded examples; live generation uses your own OpenAI key.
@@ -28,7 +28,7 @@ A Generative UI prototype that turns a task into an interactive workspace. Recor
 [Open the playground ↗](https://deema9-intent-lab.static.hf.space/index.html) · [Source, build instructions & decisions](playground/intent-lab/README.md)
 
 
-[![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval-ice.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
+[![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval-archive.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
 
 **Arabic Retrieval Lab · My main public experiment**  
 Import public documents, compare lexical, semantic and hybrid search, and open the exact source passages. Save a local workspace, export the evidence, and verify its quotations offline.
@@ -104,7 +104,7 @@ I set product direction, constraints and revision priorities. Research, implemen
 
 ### After hours
 
-![A night scene with Saturn, a game controller, a steaming coffee and a blinking cat](assets/after-hours-ice.svg)
+![A night scene with Saturn, a game controller, a steaming coffee and a blinking cat](assets/after-hours-no-planet.svg)
 
 A telescope, a story-driven game, another black coffee. Ideally with a cat nearby.
 
