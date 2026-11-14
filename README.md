@@ -8,6 +8,8 @@ I design internal products and build prototypes to test the ideas behind them. M
 
 I care about Arabic experiences, finding the right information, and what happens between an AI output and someone actually using it.
 
+أصمم منتجات داخلية، وأختبر أفكار الذكاء الاصطناعي بنماذج تقدر تجرّبها وتفحص نتائجها.
+
 <p>
 <a href="#try-something"><img src="assets/icons/play.svg" alt="Try my work" height="38"></a>
 <a href="notes/CONTRIBUTIONS.md"><img src="assets/icons/notes.svg" alt="How I work" height="38"></a>
@@ -21,7 +23,10 @@ I care about Arabic experiences, finding the right information, and what happens
 
 [![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval-night.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
 
-**When a search looks right, how do you check it?** Compare Arabic lexical, semantic and hybrid retrieval. Open the actual passages and export the evidence.
+**Arabic Retrieval Lab · My main public experiment**  
+Import public documents, compare lexical, semantic and hybrid search, and open the exact source passages. Save a local workspace, export the evidence, and verify its quotations offline.
+
+The 40-case synthetic diagnostic includes real model runs and documented failures. [Read the case study / بالعربي](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/CASE_STUDY.md) · [Architecture](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/ARCHITECTURE.md)
 
 [Open the experiment ↗](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab) · [Code](https://github.com/cometeux/arabic-ai-quality-lab) · [What failed, and why](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/EVALUATION.md)
 
