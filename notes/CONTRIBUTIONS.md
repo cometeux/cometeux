@@ -1,25 +1,35 @@
-# What I bring to the work
+# Decisions I bring to the work
 
-I work across product questions, research, workflows and interface design. My public experiments make a small part of that thinking inspectable. They are developed with AI coding assistance.
+My work connects research, product workflows and interface design. These examples separate the direction I set from the implementation choices developed with coding assistance.
 
-## Product direction and revision choices
+## Direction → change → evidence
 
-These choices reflect my instructions and feedback during development:
-
-| Choice | Why it matters | Where to inspect it |
+| My direction | Change in the work | Inspect |
 |---|---|---|
-| Prioritize useful Arabic workflows | A demo should relate to work someone needs to do | Search and task-review experiments |
-| Replace generic interface copy with contextual language | The next step should be clear without a technical explanation | Search prompts and task-review messages |
-| Give each experiment a structure that fits its task | Comparing evidence and editing a task require different layouts | Search comparison versus notebook editor |
-| Make sources and evaluation visible | A plausible result should be open to inspection | Source dialog, evaluation reports and failure notes |
-| Keep confidential work separate | General experience can be described without exposing internal products | Profile project summaries |
+| Make the work useful in Arabic, with natural language | Arabic search and task-review workflows, rather than a generic chatbot | [Search workspace](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab) and [task notebook](https://huggingface.co/spaces/Deema9/action-review) |
+| Give the portfolio a personal identity; replace the first project graphics | Revised night-scene covers and personal details around astronomy, games, cats and coffee | [Profile assets](../assets) |
+| Protect confidential products, including their identity | General project summaries, a public alias for Knowledge Companion, and separate synthetic experiments | [Meeting-minutes design note](MEETING_MINUTES.md) |
+| Strengthen the technical evidence and make the projects actually work | Import/export, exact source spans, offline evidence verification and evaluation reports | [Case study](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/CASE_STUDY.md) and [verification](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/VERIFY.md) |
+| Explore an independent venture with no upfront spending; require evidence before committing to an idea | Meyar's spreadsheet-review prototype and four bounded operating roles | [Meyar case study](MEYAR.md) |
 
-## Assistance and boundaries
+These are examples of product direction and review priorities. They are not a claim that I personally devised every engineering mechanism below.
 
-Implementation, test execution, synthetic data and documentation were produced with AI assistance. The source history and reports expose the work; they are not evidence that I independently implemented every algorithm. The embedding model is existing open-source work, credited in the repository. No model training, independent user research or production adoption is claimed for these experiments.
+## Engineering decisions developed in the assisted build
 
-Smart Meeting Minutes is presented as UX/UI design work. The other confidential summaries describe the projects generally; they do not add unverified ownership titles or engineering claims.
+| Problem encountered | Decision implemented | Trade-off or remaining question |
+|---|---|---|
+| A normalization-focused fixture produced a misleadingly easy 100% result | Add a harder 40-case diagnostic with paraphrases, multiple relevant sources and missing information | Labels are still AI-assisted and visible during development |
+| A plausible retrieved passage can look like an answer | Show source passages and separate similarity from truth | The tool does not automatically detect whether a question can be answered |
+| An exported quotation can change independently of its source | Preserve exact spans and verify them against a workspace fingerprint | Integrity does not establish source credibility |
+| A repeated agent event can trigger repeated work | Record role/event identity and reuse the result; retry failures | Local tests do not establish unattended production reliability |
+| A payment link could enable selling before readiness | Separate preview/test/live output and require launch evidence | Actual merchant-file and payment validation remain open |
 
-## What would strengthen the evidence further
+## Authorship and evidence
 
-An independent reviewer can try the live tools and submit a reproducible issue: the public input, expected behavior, observed behavior and its impact. Real feedback and the resulting changes will be recorded when they exist. No user-test results have been invented for this portfolio.
+I set product direction, constraints and revision priorities. Research, implementation, synthetic data, tests and documentation use AI assistance. Existing models and upstream projects retain their credits in the repositories.
+
+Functional checks, synthetic evaluations and independent user sessions are different evidence types. [The review record](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/REVIEW_RESULTS.md) tracks independent sessions separately; none are recorded yet.
+
+## بالعربي
+
+مساهمتي تتمثل في توجيه المنتج وتحديد المشكلة والقيود ومراجعة التجربة وطلب التعديلات. الجدول يفصل بين هذا الدور وبين القرارات الهندسية التي تطورت أثناء التنفيذ بمساعدة الذكاء الاصطناعي، ويربط كل مثال بما يمكن فحصه.
