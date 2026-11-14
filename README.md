@@ -19,13 +19,13 @@ I care about Arabic experiences, finding the right information, and what happens
 
 ### Try something
 
-[![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
+[![Arabic Retrieval Lab — compare methods and inspect source evidence](assets/retrieval-night.svg)](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab)
 
 **When a search looks right, how do you check it?** Compare Arabic lexical, semantic and hybrid retrieval. Open the actual passages and export the evidence.
 
 [Open the experiment ↗](https://huggingface.co/spaces/Deema9/arabic-retrieval-lab) · [Code](https://github.com/cometeux/arabic-ai-quality-lab) · [What failed, and why](https://github.com/cometeux/arabic-ai-quality-lab/blob/main/docs/EVALUATION.md)
 
-[![Action Review — clarify the task, owner and due date](assets/actions.svg)](https://huggingface.co/spaces/Deema9/action-review)
+[![Action Review — clarify the task, owner and due date](assets/actions-night.svg)](https://huggingface.co/spaces/Deema9/action-review)
 
 **The meeting ended. What happens next?** A small notebook for reviewing tasks, owners and deadlines. It flags gaps, keeps editing in your hands and exports the list.
 
