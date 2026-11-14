@@ -104,7 +104,7 @@ I set product direction, constraints and revision priorities. Research, implemen
 
 ### After hours
 
-![Pixel art: a game controller, steaming black coffee and a curled-tail cat](assets/after-hours-pixel-v2.svg)
+![Pixel art: a game controller, steaming black coffee and a curled-tail cat](assets/after-hours-connected.svg)
 
 A telescope, a story-driven game, another black coffee. Ideally with a cat nearby.
 
