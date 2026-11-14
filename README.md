@@ -21,7 +21,12 @@ I care about Arabic experiences, finding the right information, and what happens
 
 ### Currently building
 
-An independent venture using AI agents. This is ongoing work, currently in development.
+**Meyar Prices · مِعيار الأسعار**  
+A price file can look right and still contain an expensive mistake. I’m building an Arabic tool to review Excel prices, compare versions and export the changes — with local file processing.
+
+Around it, I’m testing four AI-agent roles for quality, growth, support and operations, with recorded jobs, retries and clear escalation rules. **14 automated tests passed.** The prototype is pre-launch; merchant-file and payment validation are still pending.
+
+[Product decisions, agent architecture and verification ↗](notes/MEYAR.md)
 
 ### Try something
 
